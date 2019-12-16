@@ -36,6 +36,7 @@ What you get with an AI Builder trial license:
 
 - Trial environments expire after 30 days.
 - Once you purchase an AI Builder license, the usage will be limited to environments where the administrator allocates AI capacity.
+- You can extend your trial to 30 additional days.
 
 > [!NOTE]  
 > These restrictions apply only to model types that have been released to  general availability. Model types in preview release status will remain available without a license until they are released for general availability.  
