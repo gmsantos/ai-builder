@@ -11,5 +11,5 @@ After March 5, 2020, customers are encouraged to transition to the new model ver
 
 More information:
 
-* [Transition to use an updated form processing model](transition-new-form-processing-model.md)
-* [Transition to use an updated object detection model](transition-new-object-detection-model.md)
+* [Transition to use a new form processing model version](transition-new-form-processing-model.md)
+* [Transition to use a new object detection model version](transition-new-object-detection-model.md)
