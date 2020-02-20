@@ -92,6 +92,8 @@
     href: form-processing-train.md
   - name: Use sample data
     href: form-processing-sample-data.md
+  - name: Transition to use a new form processing model version
+    href: transition-new-form-processing-model.md
 - name: Prebuilt AI models
   items:
   - name: Overview
